@@ -1,0 +1,2 @@
+This project, including all content, code, materials, and anything created or produced based on it, is the exclusive property of Action Starters. It is protected by intellectual property laws, including copyright. Any reproduction, distribution, or sharing of this project, in whole or in part, without the explicit written consent of Action Starters is strictly prohibited. This project is private and not intended for public use or distribution. Action Starters disclaims all liability for any damages or losses arising from the use of this project.
+
