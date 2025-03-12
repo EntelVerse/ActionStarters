@@ -1,24 +1,5 @@
 # ActionStarters
 
-Platform Overview
-I understand you want a platform that:
-Aggregates grants, supports, and incentives from around the world (e.g., sports, bioengineering, SBIR/STTR programs).
-
-Lets users filter by country and supports multiple languages.
-
-Uses AI to fetch and list data from sources like CSV, Excel, and websites.
-
-Helps people find group members, form teams, and collaborate on projects.
-
-Is startup-friendly, with features like intramural tournaments and access to past/future projects.
-
-Includes communication tools like Discord or Slack-style rooms.
-
-Supports project submissions where the first accepted project gets the job, and others wait for the next opportunity.
-
-Encourages team formation and inviting skilled friends.
-
-This platform will be a global hub for innovators, combining grant access with collaboration tools and community features. Here’s how it will work:
 Key Features
 1. Grant Aggregation and Filtering
 What It Does: Collects grants, supports, and incentives from worldwide sources, focusing on areas like sports and bioengineering (e.g., SBIR/STTR in the US).
